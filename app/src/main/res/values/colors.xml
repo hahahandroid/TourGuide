@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#3F51B5</color>
+    <color name="primary_dark_color">#303F9F</color>
+    <color name="tan_background">#FFFFFF</color>
+    <color name="category_metro">#607D8B</color>
+    <color name="category_red_square">#FFCDD2</color>
+    <color name="category_vdnh">#B3E5FC</color>
+    <color name="category_msu">#D1C4E9</color>
+</resources>

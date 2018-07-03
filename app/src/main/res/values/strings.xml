@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Moscow</string>
+    <string name="category_vdnh">VDNH</string>
+    <string name="category_metro">Moscow Metro</string>
+    <string name="category_red_square">Red Square</string>
+    <string name="category_msu">MSU</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firts_metro">Kievskaya</string>
+    <string name="first_metro_description">Dark blue line of Moscow metro</string>
+    <string name="second_metro">Smolenskaya</string>
+    <string name="second_metro_description">Light blue line of Moscow metro</string>
+    <string name="third_metro">Arbat</string>
+    <string name="third_metro_description">Dark blue line of Moscow metro</string>
+    <string name="fisrt_msu">Moscow State University</string>
+    <string name="first_msu_description">The most prestigious University of Russia</string>
+    <string name="second_msu">Botanic Garden of MSU</string>
+    <string name="second_msu_description">One of the most filled botanic garden in Russia</string>
+    <string name="third_msu">Viewpoint of MSU</string>
+    <string name="third_msu_description">The most prestigious University of Russia</string>
+    <string name="first_red_square">Red Square</string>
+    <string name="first_red_square_description">The main touristic place in Moscow</string>
+    <string name="second_red_square">Kremlin</string>
+    <string name="second_red_square_description">The palace of Russian Tsars</string>
+    <string name="third_red_square">GUM</string>
+    <string name="third_red_square_description">The main department store</string>
+    <string name="fist_vdnh">Fountains of VDNH</string>
+    <string name="first_vdnh_description">The most filled group of soviet fountains in Russia</string>
+    <string name="second_vdnh">Politech museum</string>
+    <string name="second_vdnh_description">One of the most interesting museum</string>
+    <string name="third_vdnh">Skytown</string>
+    <string name="third_vdnh_description">One of the most big sky park in Europe</string>
+
+</resources>
